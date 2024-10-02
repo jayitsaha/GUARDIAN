@@ -10,10 +10,8 @@ Original file is located at
 
 
 import pandas as pd
-df = pd.DataFrame()
-df['text'] = ['fire in bangalore mall causes havoc','feared gun violence near nexus mall causes traffic outage',
-              'garbage piling up near agara lake causing traffic congestion']
-df.to_csv('social_media_data.csv',index=False)
+
+df = pd.read_csv('social_media_data.csv',)
 
 """threat analysis report"""
 
