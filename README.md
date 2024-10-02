@@ -29,8 +29,14 @@ GUARDIAN continuously learns and evolves, safeguarding communities with precisio
 
 - Python
 - PostgreSQL
+- React Native
+- Gemini Vision API
+- Vertex AI Generative Models
+- Gemini Flash
+- Google Maps Location API
+- Google Maps Search API
+- Distance Matrix API
 - VQA
-- OpenAI
 - Flask
 - Tensorflow
 - Pytorch
